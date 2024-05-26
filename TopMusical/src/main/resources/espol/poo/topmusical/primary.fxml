@@ -37,7 +37,7 @@
       </VBox>
    </right>
    <top>
-      <Label text="RadioGit Top 10 CANCIONES" BorderPane.alignment="CENTER">
+      <Label text="RADIOGIT TOP 10 CANCIONES" BorderPane.alignment="CENTER">
          <font>
             <Font name="System Bold" size="24.0" />
          </font>
